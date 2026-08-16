@@ -1,0 +1,22 @@
+{
+  "users": {
+    "hridaymittal85@gmail.com": {
+      "id": "admin_mqkf30ye",
+      "name": "Hriday",
+      "email": "hridaymittal85@gmail.com",
+      "password": "hello05",
+      "avatar": "👑",
+      "status": "available",
+      "contacts": [],
+      "blocked": [],
+      "isAdmin": true,
+      "createdAt": "2026-06-19T04:16:49.814Z"
+    }
+  },
+  "messages": {},
+  "groups": {},
+  "groupMessages": {},
+  "callHistory": [],
+  "feedback": [],
+  "challenges": {}
+}
